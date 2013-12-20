@@ -1,7 +1,0 @@
-#!/bin/bash
-USERNAME="Morsgris"
-read -t 3 -p "Hej, vad heter du?" USERNAME
-USERNAME=${USERNAME:="MorsgrisO
-"}
-echo -e "\nHej $USERNAME"
-exit 0
